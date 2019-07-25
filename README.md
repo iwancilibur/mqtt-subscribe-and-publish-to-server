@@ -13,3 +13,6 @@ Instal Cpanel
 http://www.sibro21.org/2016/04/install-webmin-di-debian-jessie-8.html
 https://eitwebguru.com/webmin-error-the-web-server-is-running-in-ssl-mode/
 https://help.ubuntu.com/lts/serverguide/exim4.html
+
+
+https://tecadmin.net/install-latest-nodejs-npm-on-debian/
