@@ -16,3 +16,7 @@ https://help.ubuntu.com/lts/serverguide/exim4.html
 
 
 https://tecadmin.net/install-latest-nodejs-npm-on-debian/
+
+
+https://www.freemysqlhosting.net
+http://www.phpmyadmin.co
